@@ -25,9 +25,9 @@
 <a name="apps"></a>
 ### Apps, Softwares & Tools
 
-| Project | Description | Author | |
-|--|--|--|--|
-|  **[awesome-tunisian-blogs](https://github.com/TunisianJS/awesome-tunisian-blogs)**  |  +100 tunisia blogs ..| | by [TunisianJS](https://github.com/TunisianJS)|
+| Project | Description | Author |
+|--|--|--|
+|  **[awesome-tunisian-blogs](https://github.com/TunisianJS/awesome-tunisian-blogs)**  |  +100 tunisia blogs ..| by [TunisianJS](https://github.com/TunisianJS) |
 
 
 
@@ -37,112 +37,109 @@
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | | 
+| Project | Description | Author |
+|--|--|--|
+| | | |
  
 <a name="c"></a>
 ### C
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
  <a name="csharp"></a>
  ### C#
  
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | | 
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="cpp"></a>
 ### C++
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="css"></a>
 ### CSS
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="flutter"></a>
 ### Flutter
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="go"></a>
 ### Go
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="js"></a>
 ### JavaScript
 
-| Project | Description | Author | |
-|--|--|--|--|
-| **[svelte-stars-rating](https://github.com/heithemmoumni/svelte-stars-rating)**|  A highly dynamic svelte stars rating component|by [heithemmoumni](https://github.com/heithemmoumni) | 
+| Project | Description | Author |
+|--|--|--|
+| **[svelte-stars-rating](https://github.com/heithemmoumni/svelte-stars-rating)** |  A highly dynamic svelte stars rating component | by [heithemmoumni](https://github.com/heithemmoumni) | 
 
-| **[sails-hook-graphql](https://github.com/bashz/sails-hook-graphql)** |  An installable sails hook, meant to offer a graphql route, that manage all queries and mutation based on your model definitions  |by [bashz](https://github.com/bashz) | 
-
-
-
- 
+| **[sails-hook-graphql](https://github.com/bashz/sails-hook-graphql)** |  An installable sails hook, meant to offer a graphql route, that manage all queries and mutation based on your model definitions | by [bashz](https://github.com/bashz) | 
 
 <a name="php"></a>
 ### PHP
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
+
 <a name="python"></a>
 ### Python
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="Lua"></a>
 ### Lua
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="Elixir"></a>
 ### Elixir
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="Ruby"></a>
 ### Ruby
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="vim"></a>
 ### vim
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 <a name="misc"></a>
 ### Misc
 
-| Project | Description | Author | |
-|--|--|--|--|
-| | | | |
+| Project | Description | Author |
+|--|--|--|
+| | | |
 
 ## Contributing
 
@@ -153,7 +150,7 @@ It's hard to calculate project popularity so we use stars as a measurement. It's
 If you want to add project to this list, please, make sure that:
 
 - The project was created by the developers born in Tunisia
-- The project can't be just an personal, experimental or sample project
+- The project can't be just a personal, experimental or sample project
 - If they do, feel free to make a PR!
 
 ## License
