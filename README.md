@@ -89,7 +89,6 @@
 | Project | Description | Author |
 |--|--|--|
 | **[svelte-stars-rating](https://github.com/heithemmoumni/svelte-stars-rating)** |  A highly dynamic svelte stars rating component | by [heithemmoumni](https://github.com/heithemmoumni) | 
-
 | **[sails-hook-graphql](https://github.com/bashz/sails-hook-graphql)** |  An installable sails hook, meant to offer a graphql route, that manage all queries and mutation based on your model definitions | by [bashz](https://github.com/bashz) | 
 
 <a name="php"></a>
